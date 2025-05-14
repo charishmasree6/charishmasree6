@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Charishma Sree! 👋</h1>
 
 <p align="center">
-I'm a passionate software developer from India, with a keen interest in full stack development, application development, and learning cutting-edge technologies. I love turning ideas into practical solutions and continuously growing my skillset.
+I'm a passionate software developer with a keen interest in full stack development, application development, and learning cutting-edge technologies. I love turning ideas into practical solutions and continuously growing my skillset.
 </p>
 
 <p align="center">
