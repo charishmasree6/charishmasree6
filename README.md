@@ -4,11 +4,6 @@
 I'm a passionate software developer with a keen interest in full stack development, application development, and learning cutting-edge technologies. I love turning ideas into practical solutions and continuously growing my skillset.
 </p>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400"/>
-</p>
----
-
 ### 👩‍💻 About Me
 - 💡 I'm a CSE student passionate about **JavaScript**, **React**, and **Machine Learning**
 - 📊 I love building **data analysis dashboards** and **interactive websites**
