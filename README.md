@@ -71,7 +71,7 @@ I'm a passionate software developer with a keen interest in full stack developme
 ---
 
 ### 📫 Connect with Me
-- 🔗 [LinkedIn – Charishma Sree T](https://www.linkedin.com/in/charishma-sree-t)
+- 🔗 [LinkedIn – Charishma Sree](https://www.linkedin.com/in/charishma-sree-/)
 - 📧 Email: charishmasree6@gmail.com
 
 ---
