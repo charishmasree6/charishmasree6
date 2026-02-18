@@ -53,13 +53,6 @@ I'm a passionate software developer with a keen interest in full stack developme
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=charishmasree6&show_icons=true&theme=radical" alt="Charishma's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=charishmasree6&layout=compact&theme=radical" alt="Top Languages" />
-</p>
-
 ---
 
 ### 🔥 Streak Stats
